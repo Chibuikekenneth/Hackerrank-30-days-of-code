@@ -12,4 +12,4 @@ func main() {
 	message, _ = reader.ReadString('\n')
 
 	fmt.Printf("Hello, World.\n%s", message)
-}
+}  
